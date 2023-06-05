@@ -1,4 +1,40 @@
 
+
 body {
     background-color: rgb(132, 141, 155);
+    color: white;
 }
+
+.caja1 {
+    height: 450px;
+    width: 250px;
+    background-image: linear-gradient( to right, hsl(15,94%,59%), hsl(9,94%,58%));
+    border-radius: 10px;
+}
+
+.title {
+    text-align: center;
+    font-weight: 600;
+    padding-top: 30px;
+    margin-bottom: 10px;
+    padding-top: 30px;
+}
+
+.dolar {
+    display: inline-block;
+    margin-left: 60px;
+}
+
+.price {
+    display: inline-block;
+    font-size: 100px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.plan {
+    padding-left: 30px;
+    text-align: center;
+}
+
+
